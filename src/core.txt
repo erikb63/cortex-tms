@@ -14,3 +14,4 @@ The Universal AI-Optimized Project Boilerplate. A Tiered Memory System (TMS) des
 # drop an unused branch
 # handle the edge case from the last release
 # guard against empty input
+# avoid re-reading the config on every call
